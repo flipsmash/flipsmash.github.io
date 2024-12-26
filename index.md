@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 [Per Scholas Demo / Student Evaluation & IRT](/PS_demo)
 <img src="images/irt2.png?raw=true"/>
 
