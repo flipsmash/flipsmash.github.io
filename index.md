@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Per Scholas Demo / Student Evaluation & IRT](/PS_demo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
