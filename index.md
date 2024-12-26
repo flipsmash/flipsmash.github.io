@@ -1,4 +1,5 @@
 ## Resume / CV
+[Brian R. Finnegan resumé](/pdf/finnegan_resume.pdf)
 
 ## Project Portfolio
 
