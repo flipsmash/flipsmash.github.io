@@ -6,9 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Educator, data scientist, learning assessment zealot &<br>
   recovering administrator
   <br><br>
+  View My:
   <a href = "/pdf/finnegan_resume.pdf">Resume</a><br>
   <a href="https://www.youtube.com/@flipsmash">YouTube Channel</a><br>
-  <a href="https://www.linkedin.com/in/brfinnegan/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brfinnegan/">LinkedIn</a><br>
+  <a href="https://github.com/flipsmash">Github Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
