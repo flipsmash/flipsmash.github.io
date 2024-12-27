@@ -8,16 +8,12 @@
 
 ---
 
-[Per Scholas Demo / Student Evaluation & IRT](/PS_demo)
+[Assessing the Assessments: Exploratory LEarning Assessment & IRT Basics](/PS_demo)
 <img src="images/IRT.png?raw=true"/>
 
 ---
-[Open-Ended Student Course Evaluation Analysis](/tbd)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Open-Ended Student Course Evaluation Analysis: Topic Modeling via Deep Learning and Aspect-Based Sentiment Analysis (ASBA)](/tbd)
+<img src="images/custer_distribution_sm.png?raw=true"/>
 
 ---
 
