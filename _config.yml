@@ -6,11 +6,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   Educator, data scientist, learning assessment zealot &<br>
   recovering administrator
   <br><br>
-  View My:<br>
-  <a href = "/pdf/finnegan_resume.pdf">Resume</a><br>
-  <a href="https://www.youtube.com/@flipsmash">YouTube Channel</a><br>
-  <a href="https://www.linkedin.com/in/brfinnegan/">LinkedIn</a><br>
-  <a href="https://github.com/flipsmash">Github Profile</a>
+  View My:<br><ul>
+  <li><a href = "/pdf/finnegan_resume.pdf">Resume</a><br></li>
+  <li><a href="https://www.youtube.com/@flipsmash">YouTube Channel</a><br></li>
+  <li><a href="https://www.linkedin.com/in/brfinnegan/">LinkedIn</a><br></li>
+  <li><a href="https://github.com/flipsmash">Github Profile</a></li>
+  </ul>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
