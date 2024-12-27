@@ -1,5 +1,6 @@
-## Resume / CV
-[Brian R. Finnegan resumé](/pdf/finnegan_resume.pdf)
+## Resumé / CV
+[View](/pdf/finnegan_resume.pdf)
+<a href="/pdf/finnegan_resume.pdf" download="finnegan_resume.pdf">Download</a>
 
 ## Project Portfolio
 
