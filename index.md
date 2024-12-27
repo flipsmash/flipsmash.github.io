@@ -1,11 +1,3 @@
-## Resume / CV
-[Brian R. Finnegan Resume](/pdf/finnegan_resume.pdf)
-
-## Socials
-[Linked In](https://www.linkedin.com/in/brfinnegan/)
-
-[YouTube](https://www.youtube.com/@flipsmash)
-
 ## Project Portfolio
 ---
 
