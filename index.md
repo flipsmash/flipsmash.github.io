@@ -3,6 +3,7 @@
 
 ## Socials
 [Linked In](https://www.linkedin.com/in/brfinnegan/)
+
 [YouTube](https://www.youtube.com/@flipsmash)
 
 ## Project Portfolio
