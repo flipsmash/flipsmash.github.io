@@ -1,13 +1,12 @@
-## Resumé / CV
-[View](/pdf/finnegan_resume.pdf)
-<a href="/pdf/finnegan_resume.pdf" download="finnegan_resume.pdf">Download</a>
+## Resume / CV
+[Brian R. Finnegan Resume](/pdf/finnegan_resume.pdf)
 
 ## Project Portfolio
 
 ---
 
 [Per Scholas Demo / Student Evaluation & IRT](/PS_demo)
-<img src="images/irt2.png?raw=true"/>
+<img src="images/IRT.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
